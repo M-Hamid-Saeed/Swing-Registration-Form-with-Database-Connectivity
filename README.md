@@ -6,10 +6,15 @@ In this project, a registration form including signup, signin and exit button is
 What I have learned?
 
 --> SQL Server
+
 --> Java Swing GUI
+
 --> Database Connectivity
+
 --> Data Insertion in Database
---> Data Fetching from Database
+
+--> Data Fetching from Database 
+
 --> Authentication
 
 #NOTE: THE RECORD NAMES TABLES AND LOCAL SERVER NAME USED IN THE CODE ARE ACCORDING TO MY PERSONAL DATABASE AND DEVICE. 
